@@ -1,0 +1,16 @@
+{
+	"coc.preferences.formatOnSaveFiletypes": [
+		"css",
+		"markdown",
+		"javascript",
+		"java",
+		"typescript",
+		"javascriptreact",
+		"typescriptreact",
+		"json",
+		"graphql",
+		"c",
+		"python"
+  ],
+  "clangd.path": "~/.config/coc/extensions/coc-clangd-data/install/14.0.0/clangd_14.0.0/bin/clangd"
+}
